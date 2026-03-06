@@ -56,16 +56,6 @@ Teknologi yang digunakan dalam pengembangan aplikasi ini:
 
 ---
 
-# 👥 Contributors
-
-Project ini dikembangkan sebagai bagian dari **portfolio pengembangan aplikasi web**.
-
-**Developer:**  
-Nama: Your Name  
-GitHub: https://github.com/username
-
----
-
 # 🎯 Project Goals
 
 Tujuan utama dari pengembangan aplikasi ini:
