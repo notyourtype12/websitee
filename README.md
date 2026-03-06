@@ -121,7 +121,7 @@ http://localhost/digitalvillage
 
 # 📸 Application Preview
 
-![Dashboard](Digital Village/img/Screenshot 2026-03-06 181225.png)
+![alt text](https://github.com/notyourtype12/websitee/blob/main/Digital%20Village/img/Screenshot%202026-03-06%20181225.png?raw=true)
 
 
 ---
